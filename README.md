@@ -11,8 +11,7 @@ This dataset (ml-20m) describes 5-star rating and free-text tagging activity fro
 
 Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
-The data are contained in the files genome-scores.csv, genome-tags.csv, links.csv, movies.csv, ratings.csv and tags.csv.
 
-For our objective, we would be using "ratings.csv" and "movies.csv" data files.
+For our objective, we would be using "u.data" and "u.item" data files.
 
 
