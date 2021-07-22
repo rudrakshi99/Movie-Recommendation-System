@@ -1,6 +1,12 @@
 # Movie-Recommendation-System
 Movie Recommendation System for the MovieLens Dataset using machine Learning and predict user ratings for Movies.
 
+Python Libraries used:
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+
 ## Data Collection :
 
 The dataset has been obtained from Grouplens.
